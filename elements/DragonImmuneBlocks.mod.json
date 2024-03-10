@@ -1,0 +1,64 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:XlorisEndlyum"
+      },
+      {
+        "value": "CUSTOM:XlorisWood"
+      },
+      {
+        "value": "CUSTOM:XlorisLog"
+      },
+      {
+        "value": "CUSTOM:XlorisPlanks"
+      },
+      {
+        "value": "CUSTOM:XlorisStairs"
+      },
+      {
+        "value": "CUSTOM:XlorisSlab"
+      },
+      {
+        "value": "CUSTOM:XlorisFence"
+      },
+      {
+        "value": "CUSTOM:XlorisFenceGate"
+      },
+      {
+        "value": "CUSTOM:XlorisPressurePlate"
+      },
+      {
+        "value": "CUSTOM:XlorisButton"
+      },
+      {
+        "value": "CUSTOM:XlorisDoor"
+      },
+      {
+        "value": "CUSTOM:XlorisTrapdoor"
+      },
+      {
+        "value": "CUSTOM:XlorisJelly"
+      },
+      {
+        "value": "CUSTOM:EnderDesertBarbs"
+      },
+      {
+        "value": "CUSTOM:XlorisGrass"
+      },
+      {
+        "value": "CUSTOM:XlorisLeaves"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "dragon_immune",
+    "namespace": "minecraft"
+  }
+}

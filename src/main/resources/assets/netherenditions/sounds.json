@@ -1,0 +1,23 @@
+{
+  "end.music.common": {
+    "subtitle": "subtitles.end.music.common",
+    "sounds": [
+      {
+        "name": "netherenditions:burnt_away",
+        "stream": true
+      },
+      {
+        "name": "netherenditions:dusk_walker",
+        "stream": true
+      },
+      {
+        "name": "netherenditions:mystic_heights",
+        "stream": true
+      },
+      {
+        "name": "netherenditions:total_darkness",
+        "stream": true
+      }
+    ]
+  }
+}

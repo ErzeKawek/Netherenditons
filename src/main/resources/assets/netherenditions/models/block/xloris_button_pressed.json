@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "netherenditions:block/xloris_planks"
+  },
+  "render_type": "solid"
+}

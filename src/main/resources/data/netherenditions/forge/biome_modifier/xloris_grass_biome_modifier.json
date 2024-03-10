@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "netherenditions:sparse_xloris_forest",
+    "netherenditions:xloris_forest"
+  ],
+  "features": "netherenditions:xloris_grass",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "netherenditions:block/xloris_slab"
+    },
+    "type=top": {
+      "model": "netherenditions:block/xloris_slab_top"
+    },
+    "type=double": {
+      "model": "netherenditions:block/xloris_slab_full"
+    }
+  }
+}

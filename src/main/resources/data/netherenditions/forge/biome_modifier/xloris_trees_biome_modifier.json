@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "netherenditions:xloris_forest",
+  "features": "netherenditions:xloris_trees",
+  "step": "surface_structures"
+}

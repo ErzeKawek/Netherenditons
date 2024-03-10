@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "netherenditions:xloris_wood",
+    "netherenditions:xloris_stem",
+    "netherenditions:xloris_planks",
+    "netherenditions:xloris_door",
+    "netherenditions:xloris_trapdoor"
+  ]
+}

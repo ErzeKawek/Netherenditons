@@ -1,0 +1,12 @@
+{
+  "feature": "netherenditions:xloris_trees_sparse",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 3
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

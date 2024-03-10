@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:huge_fungus",
+  "config": {
+    "valid_base_block": {
+      "Name": "netherenditions:xloris_endlyum"
+    },
+    "stem_state": {
+      "Name": "netherenditions:xloris_stem",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "hat_state": {
+      "Name": "netherenditions:xloris_jelly"
+    },
+    "decor_state": {
+      "Name": "minecraft:shroomlight"
+    },
+    "replaceable_blocks": {
+      "type": "minecraft:matching_blocks",
+      "blocks": "#replaceable_by_trees"
+    }
+  }
+}

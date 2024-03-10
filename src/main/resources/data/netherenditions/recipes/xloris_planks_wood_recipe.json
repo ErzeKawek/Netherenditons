@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "netherenditions:xloris_wood"
+    }
+  ],
+  "result": {
+    "item": "netherenditions:xloris_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "netherenditions:xloris_endlyum",
+    "netherenditions:xloris_wood",
+    "netherenditions:xloris_stem",
+    "netherenditions:xloris_planks",
+    "netherenditions:xloris_stairs",
+    "netherenditions:xloris_slab",
+    "netherenditions:xloris_fence",
+    "netherenditions:xloris_fence_gate",
+    "netherenditions:xloris_pressure_plate",
+    "netherenditions:xloris_button",
+    "netherenditions:xloris_door",
+    "netherenditions:xloris_trapdoor",
+    "netherenditions:xloris_jelly",
+    "netherenditions:ender_desert_barbs",
+    "netherenditions:xloris_grass",
+    "netherenditions:xloris_leaves"
+  ]
+}

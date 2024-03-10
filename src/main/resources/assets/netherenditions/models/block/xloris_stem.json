@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "netherenditions:block/xloris_stem_top",
+    "up": "netherenditions:block/xloris_stem_top",
+    "north": "netherenditions:block/xloris_stem_side",
+    "east": "netherenditions:block/xloris_stem_side",
+    "south": "netherenditions:block/xloris_stem_side",
+    "west": "netherenditions:block/xloris_stem_side",
+    "particle": "netherenditions:block/xloris_stem_top"
+  },
+  "render_type": "solid"
+}

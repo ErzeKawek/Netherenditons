@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "bark",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:XlorisLog"
+      },
+      {
+        "value": "CUSTOM:XlorisLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:XlorisLog"
+      },
+      {
+        "value": "CUSTOM:XlorisLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:XlorisWood"
+    },
+    "name": "xloris_wood_recipe",
+    "namespace": "mod"
+  }
+}

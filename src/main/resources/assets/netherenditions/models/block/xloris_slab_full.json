@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "netherenditions:block/xloris_planks",
+    "top": "netherenditions:block/xloris_planks",
+    "side": "netherenditions:block/xloris_planks"
+  },
+  "render_type": "solid"
+}

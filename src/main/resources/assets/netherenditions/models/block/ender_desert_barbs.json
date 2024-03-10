@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "netherenditions:block/ender_desert_barbs",
+    "particle": "netherenditions:block/ender_desert_barbs"
+  },
+  "render_type": "cutout"
+}

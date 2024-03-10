@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "netherenditions:block/end_stone_netherenditions_override",
+    "top": "netherenditions:block/xloris_endlyum_top",
+    "side": "netherenditions:block/xloris_endlyum_side",
+    "overlay": "netherenditions:block/xloris_endlyum_side",
+    "particle": "netherenditions:block/end_stone_netherenditions_override"
+  },
+  "render_type": "cutout_mipped"
+}

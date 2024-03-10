@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "netherenditions:block/xloris_stem",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "netherenditions:block/xloris_stem"
+    },
+    "axis=z": {
+      "model": "netherenditions:block/xloris_stem",
+      "x": 90
+    }
+  }
+}

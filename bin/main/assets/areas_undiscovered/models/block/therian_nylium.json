@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "areas_undiscovered:block/blackstone_top",
+    "top": "areas_undiscovered:block/therian_nylium_top",
+    "side": "areas_undiscovered:block/therian_nylium_blackstone_side",
+    "overlay": "areas_undiscovered:block/therian_nylium_blackstone_side",
+    "particle": "areas_undiscovered:block/blackstone_top"
+  },
+  "render_type": "cutout_mipped"
+}

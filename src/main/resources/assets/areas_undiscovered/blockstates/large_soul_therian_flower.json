@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "areas_undiscovered:block/large_soul_therian_flower"
+    },
+    "half=lower": {
+      "model": "areas_undiscovered:block/large_soul_therian_flower_bottom"
+    }
+  }
+}

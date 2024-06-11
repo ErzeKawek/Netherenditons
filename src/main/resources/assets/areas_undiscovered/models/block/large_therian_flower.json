@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "areas_undiscovered:block/large_therian_flower_top",
+    "particle": "areas_undiscovered:block/large_therian_flower_top"
+  },
+  "render_type": "cutout"
+}

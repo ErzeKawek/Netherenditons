@@ -1,0 +1,15 @@
+{
+    "feature": "areas_undiscovered:xloris/xloris_tree/tree_builder",
+    "placement": [
+      {
+        "type": "minecraft:block_predicate_filter",
+        "predicate": {
+          "type": "minecraft:would_survive",
+          "state": {
+            "Name": "areas_undiscovered:xloris_grass"
+          }
+        }
+      }
+    ]
+  }
+  

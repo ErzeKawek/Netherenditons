@@ -1,0 +1,29 @@
+{
+  "_fv": 60,
+  "_type": "structure",
+  "definition": {
+    "structure": "ruined_altar",
+    "projection": "terrain_matching",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      }
+    ],
+    "spacing": 28,
+    "separation": 23,
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:EndothermicMidlands"
+      },
+      {
+        "value": "end_midlands"
+      }
+    ],
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "terrainAdaptation": "bury",
+    "generationStep": "SURFACE_STRUCTURES",
+    "size": 1,
+    "maxDistanceFromCenter": 64,
+    "jigsawPools": []
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 60,
   "_type": "plant",
   "definition": {
     "renderType": 12,
@@ -33,7 +33,7 @@
       "fixedValue": []
     },
     "creativeTab": {
-      "value": "CUSTOM:NetherenditionsBlocks"
+      "value": "No creative tab entry"
     },
     "hardness": 0.0,
     "resistance": 0.0,
@@ -80,11 +80,11 @@
     "speedFactor": 1.0,
     "canBePlacedOn": [
       {
-        "value": "CUSTOM:XlorisEndlyum"
+        "value": "Blocks.POTTED_WARPED_ROOTS"
       }
     ],
     "isBonemealable": false,
-    "frequencyOnChunks": 1,
+    "frequencyOnChunks": 11,
     "generateFeature": true,
     "restrictionBiomes": [],
     "generationType": "Grass",

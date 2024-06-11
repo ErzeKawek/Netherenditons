@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "areas_undiscovered:activated_blintcore"
+    },
+    "title": {
+      "translate": "advancements.activate_blintcore.title"
+    },
+    "description": {
+      "translate": "advancements.activate_blintcore.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "activate_blintcore_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 32
+  },
+  "parent": "areas_undiscovered:netherenditions_nether"
+}

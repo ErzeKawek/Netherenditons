@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "areas_undiscovered:xloris_endlyum",
+    "areas_undiscovered:metal_sponge",
+    "areas_undiscovered:soaked_metal_sponge",
+    "areas_undiscovered:therian_wart",
+    "areas_undiscovered:therian_moss",
+    "areas_undiscovered:therian_nylium",
+    "areas_undiscovered:blyamorous_crystal_block"
+  ]
+}

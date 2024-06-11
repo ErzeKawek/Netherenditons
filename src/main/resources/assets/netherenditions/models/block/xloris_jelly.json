@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "netherenditions:block/xloris_jelly",
-    "particle": "netherenditions:block/xloris_jelly"
-  },
-  "render_type": "translucent"
-}

@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "areas_undiscovered:sparse_xloris_forest",
+    "areas_undiscovered:xloris_forest"
+  ],
+  "features": "areas_undiscovered:xloris_grass",
+  "step": "vegetal_decoration"
+}

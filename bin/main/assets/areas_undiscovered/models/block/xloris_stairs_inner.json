@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "areas_undiscovered:block/xloris_planks",
+    "top": "areas_undiscovered:block/xloris_planks",
+    "side": "areas_undiscovered:block/xloris_planks"
+  },
+  "render_type": "solid"
+}

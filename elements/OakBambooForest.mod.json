@@ -1,0 +1,121 @@
+{
+  "_fv": 60,
+  "_type": "biome",
+  "definition": {
+    "name": "Oak Bamboo Forest",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.SAND#0"
+    },
+    "grassColor": {
+      "value": -8798118,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -10899920,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -14772238,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -14772238,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.8,
+    "temperature": 0.7,
+    "spawnBiome": true,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -0.4,
+      "max": 0.4
+    },
+    "genHumidity": {
+      "min": -0.6,
+      "max": 0.6
+    },
+    "genContinentalness": {
+      "min": 0.3,
+      "max": 0.9
+    },
+    "genErosion": {
+      "min": -0.4,
+      "max": 0.4
+    },
+    "genWeirdness": {
+      "min": -0.8,
+      "max": 0.9
+    },
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "ForestGrass",
+      "Bamboo",
+      "JungleGrass",
+      "ForestFlowers",
+      "PlainsTallGrass"
+    ],
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "plains",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "spawnEntries": []
+  }
+}

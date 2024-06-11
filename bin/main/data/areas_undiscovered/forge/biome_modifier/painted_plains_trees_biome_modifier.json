@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "areas_undiscovered:painted_landscapes",
+  "features": "areas_undiscovered:painted_plains_trees",
+  "step": "surface_structures"
+}

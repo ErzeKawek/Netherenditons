@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "areas_undiscovered:therian_heights",
+    "nether_wastes"
+  ],
+  "features": "areas_undiscovered:large_therian_flower",
+  "step": "vegetal_decoration"
+}

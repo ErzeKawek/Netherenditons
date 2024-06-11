@@ -1,0 +1,7 @@
+{
+  "type": "areas_undiscovered:structure_feature",
+  "config": {
+    "structure": "areas_undiscovered:pillar1",
+    "ignored_blocks": "minecraft:air"
+  }
+}

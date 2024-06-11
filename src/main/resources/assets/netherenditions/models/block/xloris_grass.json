@@ -1,8 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "netherenditions:block/xloris_grass",
-    "particle": "netherenditions:block/xloris_grass"
-  },
-  "render_type": "cutout"
-}

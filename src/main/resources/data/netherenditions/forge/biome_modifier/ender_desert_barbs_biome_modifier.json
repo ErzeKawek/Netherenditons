@@ -1,8 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": {
-    "type": "forge:any"
-  },
-  "features": "netherenditions:ender_desert_barbs",
-  "step": "vegetal_decoration"
-}

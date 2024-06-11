@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "areas_undiscovered:blocks/large_therian_flower",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "areas_undiscovered:large_therian_flower",
+          "conditions": [
+            {
+              "block": "areas_undiscovered:large_therian_flower",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

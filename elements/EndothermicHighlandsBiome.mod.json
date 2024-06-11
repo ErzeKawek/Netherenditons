@@ -1,0 +1,19 @@
+{
+  "_fv": 60,
+  "_type": "endbiome",
+  "definition": {
+    "biome": "EndothermicHighlands",
+    "generationType": "Highlands",
+    "weight": 0.6,
+    "midlands": "EndothermicMidlands",
+    "barrens": "EndothermicBarrens",
+    "mixins": [
+      "BiomeSourceMixin",
+      "TheEndBiomeSourceMixin",
+      "ClimateSamplerMixin",
+      "NoiseConfigMixin",
+      "ChunkNoiseSamplerMixin",
+      "NoiseGeneratorSettingsAccess"
+    ]
+  }
+}

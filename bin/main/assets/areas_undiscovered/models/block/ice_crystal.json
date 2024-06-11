@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "areas_undiscovered:block/ice_crystal",
+    "particle": "areas_undiscovered:block/ice_crystal"
+  },
+  "render_type": "translucent"
+}

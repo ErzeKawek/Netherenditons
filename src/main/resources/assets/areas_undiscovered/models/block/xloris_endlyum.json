@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "areas_undiscovered:block/end_stone_netherenditions_override",
+    "top": "areas_undiscovered:block/xloris_endlyum_upface",
+    "side": "areas_undiscovered:block/xloris_endlyum_sides",
+    "overlay": "areas_undiscovered:block/xloris_endlyum_sides",
+    "particle": "areas_undiscovered:block/end_stone_netherenditions_override"
+  },
+  "render_type": "cutout_mipped"
+}

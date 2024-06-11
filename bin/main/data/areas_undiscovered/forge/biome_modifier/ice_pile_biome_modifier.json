@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "areas_undiscovered:endothermic_highlands",
+  "features": "areas_undiscovered:ice_pile",
+  "step": "surface_structures"
+}

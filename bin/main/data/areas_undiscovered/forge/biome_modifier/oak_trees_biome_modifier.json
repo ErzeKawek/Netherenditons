@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "areas_undiscovered:oak_bamboo_forest",
+  "features": "areas_undiscovered:oak_trees",
+  "step": "surface_structures"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      "areas_undiscovered:xloris/xloris_tree/xloris_tree_checked"
+    ]
+  }
+}

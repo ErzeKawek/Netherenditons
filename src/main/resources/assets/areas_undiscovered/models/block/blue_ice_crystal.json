@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "areas_undiscovered:block/blue_ice_crystal",
+    "particle": "areas_undiscovered:block/blue_ice_crystal"
+  },
+  "render_type": "cutout_mipped"
+}

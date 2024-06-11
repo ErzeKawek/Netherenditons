@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "texture": "areas_undiscovered:block/xloris_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "areas_undiscovered:block/therian_planks"
+  },
+  "render_type": "solid"
+}

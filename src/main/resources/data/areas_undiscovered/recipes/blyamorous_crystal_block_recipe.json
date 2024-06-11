@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "areas_undiscovered:blyamorous"
+    }
+  },
+  "result": {
+    "item": "areas_undiscovered:blyamorous_crystal_block",
+    "count": 1
+  }
+}

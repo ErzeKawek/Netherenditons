@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "areas_undiscovered:oak_bamboo_forest",
+  "features": "areas_undiscovered:iron_ultravein",
+  "step": "surface_structures"
+}

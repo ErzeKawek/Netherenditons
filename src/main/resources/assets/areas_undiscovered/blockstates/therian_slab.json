@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "areas_undiscovered:block/therian_slab"
+    },
+    "type=top": {
+      "model": "areas_undiscovered:block/therian_slab_top"
+    },
+    "type=double": {
+      "model": "areas_undiscovered:block/therian_slab_full"
+    }
+  }
+}

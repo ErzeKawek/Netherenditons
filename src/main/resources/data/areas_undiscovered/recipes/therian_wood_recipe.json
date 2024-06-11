@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "areas_undiscovered:therian_log"
+    }
+  },
+  "result": {
+    "item": "areas_undiscovered:therian_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "areas_undiscovered:therian_heights",
+  "features": "areas_undiscovered:extra_ancient_debris",
+  "step": "underground_decoration"
+}

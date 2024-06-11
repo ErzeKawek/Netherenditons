@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "areas_undiscovered:block/blyamorous_cluster",
+    "particle": "areas_undiscovered:block/blyamorous_cluster"
+  },
+  "render_type": "cutout_mipped"
+}

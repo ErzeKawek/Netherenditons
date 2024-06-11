@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "areas_undiscovered:block/therian_planks"
+  },
+  "render_type": "solid"
+}

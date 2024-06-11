@@ -1,0 +1,3017 @@
+{
+  "mod_elements": [
+    {
+      "name": "XlorisEndlyum",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_endlyum",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_endlyum.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisEndlyumBlock.java",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_endlyum.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_endlyum.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_endlyum.json"
+        ]
+      }
+    },
+    {
+      "name": "NetherenditionsBlocks",
+      "type": "tab",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "areas_undiscovered_blocks",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "XlorisForest",
+      "type": "biome",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "xloris_forest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/biome/xloris_forest.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisWood",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_wood.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_wood.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_wood.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisWoodBlock.java",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_wood.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisLog",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_stem",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_stem.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisLogBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_stem.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_stem.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_stem.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisPlanks",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_planks.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisPlanksBlock.java",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_planks.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_planks.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_planks.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisStairs",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_stairs.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_stairs.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_stairs.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisStairsBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_stairs_inner.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_stairs_outer.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_stairs.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisSlab",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_slab.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_slab.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_slab.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisSlabBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_slab.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_slab_full.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_slab_top.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisFence",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_fence.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_fence_inventory.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_fence.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_fence_post.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_fence.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisFenceBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_fence.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisFenceGate",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisFenceGateBlock.java",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_fence_gate.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_fence_gate.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_fence_gate_wall_open.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_fence_gate.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_fence_gate_wall.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_fence_gate.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_fence_gate_open.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisPressurePlate",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_pressure_plate.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_pressure_plate_down.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_pressure_plate.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisPressurePlateBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_pressure_plate.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_pressure_plate.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisButton",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_button",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisButtonBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_button.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_button_pressed.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_button_inventory.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_button.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_button.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_button.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisWoodRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/xloris_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisPlanksLogRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_planks_log_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/xloris_planks_log_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisPlanksWoodRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_planks_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/xloris_planks_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisStairsRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/xloris_stairs_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisSlabRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/xloris_slab_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisFenceRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/xloris_fence_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/xloris_fence_gate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/xloris_pressure_plate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisButtonRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/xloris_button_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisStickRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/xloris_stick_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisDoor",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_door",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_door_bottom_left_open.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_door_top_left_open.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_door.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_door.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisDoorBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_door_bottom_left.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_door_bottom_right_open.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_door_top_left.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_door_top_right_open.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_door_top_right.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_door_bottom_right.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_door.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisTrapdoor",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_trapdoor_top.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_trapdoor.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisTrapdoorBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_trapdoor_open.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_trapdoor.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_trapdoor.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_trapdoor.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisJelly",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_jelly",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_jelly.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisJellyBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_jelly.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_jelly.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_jelly.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisTrapdoorRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_trapdoor_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/xloris_trapdoor_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisDoorRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_door_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/xloris_door_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "SparseXlorisForest",
+      "type": "biome",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sparse_xloris_forest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/biome/sparse_xloris_forest.json"
+        ]
+      }
+    },
+    {
+      "name": "EnderDesertBarbs",
+      "type": "plant",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ender_desert_barbs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/ender_desert_barbs_biome_modifier.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/ender_desert_barbs.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/ender_desert_barbs.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/ender_desert_barbs.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/EnderDesertBarbsBlock.java",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/ender_desert_barbs.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/ender_desert_barbs.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/ender_desert_barbs.json"
+        ]
+      }
+    },
+    {
+      "name": "EnderDesertBarbsMobplayerCollidesWithPlant",
+      "type": "procedure",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ender_desert_barbs_mobplayer_collides_with_plant",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/EnderDesertBarbsMobplayerCollidesWithPlantProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "XlorisGrass",
+      "type": "plant",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_grass",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/xloris_grass.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisGrassBlock.java",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_grass.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_grass.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_grass.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/xloris_grass.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_grass.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/xloris_grass_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisLeaves",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/xloris_leaves.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/xloris_leaves.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/xloris_leaves.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/xloris_leaves.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/XlorisLeavesBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "ChorusPlants",
+      "type": "feature",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chorus_plants",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/chorus_plants.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/chorus_plants.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/chorus_plants_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "Netherenditions",
+      "type": "achievement",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherenditions",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/advancements/netherenditions.json"
+        ]
+      }
+    },
+    {
+      "name": "NetherenditionsGrantAdvancement",
+      "type": "procedure",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherenditions_grant_advancement",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/NetherenditionsGrantAdvancementProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MetalSponge",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_sponge",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/metal_sponge.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/MetalSpongeBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/metal_sponge.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/metal_sponge.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/metal_sponge.json"
+        ]
+      }
+    },
+    {
+      "name": "SoakedMetalSponge",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soaked_metal_sponge",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/item/soaked_metal_sponge.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/soaked_metal_sponge.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/soaked_metal_sponge.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/SoakedMetalSpongeBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/block/soaked_metal_sponge.json"
+        ]
+      }
+    },
+    {
+      "name": "SoakedMetalSpongeFuelRegistry",
+      "type": "itemextension",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soaked_metal_sponge_fuel_registry",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "MetalSpongeLavaSoak",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal_sponge_lava_soak",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/MetalSpongeLavaSoakProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StrippedXlorisLog",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_xloris_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/item/stripped_xloris_log.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/stripped_xloris_log.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/stripped_xloris_log.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/StrippedXlorisLogBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/block/stripped_xloris_log.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedXlorisWood",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_xloris_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/block/stripped_xloris_wood.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/stripped_xloris_wood.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/stripped_xloris_wood.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/stripped_xloris_wood.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/StrippedXlorisWoodBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "XlorisLogStripping",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_log_stripping",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/XlorisLogStrippingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "XlorisWoodStripping",
+      "type": "procedure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_wood_stripping",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/XlorisWoodStrippingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LargeTherianFlowerMobplayerCollidesWithPlant",
+      "type": "procedure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_therian_flower_mobplayer_collides_with_plant",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/LargeTherianFlowerMobplayerCollidesWithPlantProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LargeTherianFlower",
+      "type": "plant",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_therian_flower",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/block/LargeTherianFlowerBlock.java",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/large_therian_flower.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/large_therian_flower.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/large_therian_flower_bottom.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/large_therian_flower.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/large_therian_flower_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/large_therian_flower.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/large_therian_flower.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/large_therian_flower.json"
+        ]
+      }
+    },
+    {
+      "name": "LargeSoulTherianFlower",
+      "type": "plant",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_soul_therian_flower",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/blockstates/large_soul_therian_flower.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/large_soul_therian_flower.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/large_soul_therian_flower_bottom.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/large_soul_therian_flower.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/LargeSoulTherianFlowerBlock.java",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/large_soul_therian_flower.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/large_soul_therian_flower_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/large_soul_therian_flower.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/large_soul_therian_flower.json"
+        ]
+      }
+    },
+    {
+      "name": "SoulSucking",
+      "type": "damagetype",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soul_sucking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/damage_type/soul_sucking.json"
+        ]
+      }
+    },
+    {
+      "name": "LargeSoulTherianFlowerMobplayerCollidesWithPlant",
+      "type": "procedure",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_soul_therian_flower_mobplayer_collides_with_plant",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/LargeSoulTherianFlowerMobplayerCollidesWithPlantProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PrickledEnder",
+      "type": "damagetype",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "prickled_ender",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/damage_type/prickled_ender.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianWood",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_wood.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianWoodBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_wood.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_wood.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_wood.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianLog",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_log.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_log.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_log.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianLogBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_log.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianPlanks",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_planks",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianPlanksBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_planks.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_planks.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_planks.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_planks.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianStairs",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_stairs.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_stairs.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_stairs.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianStairsBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_stairs_outer.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_stairs.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_stairs_inner.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianSlab",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_slab.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_slab.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_slab.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_slab.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_slab_full.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_slab_top.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianSlabBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "TherianFence",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_fence.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianFenceBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_fence_inventory.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_fence_post.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_fence.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_fence.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_fence.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianFenceGate",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianFenceGateBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_fence_gate.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_fence_gate.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_fence_gate_wall_open.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_fence_gate.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_fence_gate_wall.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_fence_gate.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_fence_gate_open.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianPressurePlate",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_pressure_plate_down.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianPressurePlateBlock.java",
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_pressure_plate.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_pressure_plate.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_pressure_plate.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_pressure_plate.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianButton",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_button.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianButtonBlock.java",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_button.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_button.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_button_pressed.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_button.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_button_inventory.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianWoodRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/therian_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianPlanksLogRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_planks_log_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/therian_planks_log_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianPlanksWoodRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_planks_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/therian_planks_wood_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianStairsRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/therian_stairs_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianSlabRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/therian_slab_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianFenceRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/therian_fence_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/therian_fence_gate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/therian_pressure_plate_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianButtonRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/therian_button_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianStickRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/therian_stick_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianWart",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_wart",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianWartBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_wart.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_wart.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_wart.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_wart.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedTherianStem",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_therian_stem",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/stripped_therian_stem.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/stripped_therian_stem.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/StrippedTherianStemBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/stripped_therian_stem.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/stripped_therian_stem.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedTherianHyphae",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stripped_therian_hyphae",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/block/StrippedTherianHyphaeBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/stripped_therian_hyphae.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/stripped_therian_hyphae.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/stripped_therian_hyphae.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/stripped_therian_hyphae.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianLogStripping",
+      "type": "procedure",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_log_stripping",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/TherianLogStrippingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TherianWoodStripping",
+      "type": "procedure",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_wood_stripping",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/TherianWoodStrippingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TherianDoor",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_door",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_door_bottom_left_open.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_door.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_door_top_right.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_door_bottom_right.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_door_top_right_open.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_door.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_door_bottom_right_open.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_door_top_left_open.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianDoorBlock.java",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_door.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_door_top_left.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_door_bottom_left.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianTrapdoor",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_trapdoor.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_trapdoor_open.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_trapdoor.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_trapdoor.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianTrapdoorBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_trapdoor.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_trapdoor_top.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianDoorRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_door_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/therian_door_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianTrapdoorRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_trapdoor_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/therian_trapdoor_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianMoss",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_moss",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_moss.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_moss.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianMossBlock.java",
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_moss.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_moss.json"
+        ]
+      }
+    },
+    {
+      "name": "LargeSoulTherianFlowerUpdateTick",
+      "type": "procedure",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_soul_therian_flower_update_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/LargeSoulTherianFlowerUpdateTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TherianHeights",
+      "type": "biome",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_heights",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/biome/therian_heights.json"
+        ]
+      }
+    },
+    {
+      "name": "ExtraAncientDebris",
+      "type": "feature",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extra_ancient_debris",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/extra_ancient_debris.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/extra_ancient_debris.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/extra_ancient_debris_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianTrees",
+      "type": "feature",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_trees",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/therian_trees_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/therian_trees.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/therian_trees.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianNylium",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_nylium",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianNyliumBlock.java",
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_nylium.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_nylium.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_nylium.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_nylium.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianMossPile",
+      "type": "feature",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_moss_pile",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/therian_moss_pile.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/therian_moss_pile_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/therian_moss_pile.json"
+        ]
+      }
+    },
+    {
+      "name": "OakBambooForest",
+      "type": "biome",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_bamboo_forest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/biome/oak_bamboo_forest.json"
+        ]
+      }
+    },
+    {
+      "name": "OakTrees",
+      "type": "feature",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oak_trees",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/oak_trees.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/oak_trees.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/oak_trees_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "ForestRock",
+      "type": "feature",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "forest_rock",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/forest_rock.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/forest_rock_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/forest_rock.json"
+        ]
+      }
+    },
+    {
+      "name": "IronUltravein",
+      "type": "feature",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_ultravein",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/iron_ultravein_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/iron_ultravein.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/iron_ultravein.json"
+        ]
+      }
+    },
+    {
+      "name": "Bamboo",
+      "type": "feature",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bamboo",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/bamboo.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/bamboo.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/bamboo_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "OldDiamondGen",
+      "type": "feature",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "old_diamond_gen",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/old_diamond_gen.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/old_diamond_gen.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/old_diamond_gen_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "BlyamorousCrystalBlockOnBlockHitByProjectile",
+      "type": "procedure",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blyamorous_crystal_block_on_block_hit_by_projectile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/BlyamorousCrystalBlockOnBlockHitByProjectileProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlyamorousCrystalBlock",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blyamorous_crystal_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/blockstates/blyamorous_crystal_block.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/BlyamorousCrystalBlockBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/blyamorous_crystal_block.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/blyamorous_crystal_block.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/blyamorous_crystal_block.json"
+        ]
+      }
+    },
+    {
+      "name": "Blyamorous",
+      "type": "item",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blyamorous",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/item/BlyamorousItem.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/blyamorous.json"
+        ]
+      }
+    },
+    {
+      "name": "BlyamorousBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blyamorous_block_ore_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/blyamorous_block_ore_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Shiny",
+      "type": "achievement",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shiny",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/advancements/shiny.json"
+        ]
+      }
+    },
+    {
+      "name": "NetherenditionsNether",
+      "type": "achievement",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherenditions_nether",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/advancements/netherenditions_nether.json"
+        ]
+      }
+    },
+    {
+      "name": "NetherenditionsEnd",
+      "type": "achievement",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherenditions_end",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/advancements/netherenditions_end.json"
+        ]
+      }
+    },
+    {
+      "name": "BlyamorousCrystalBlockRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blyamorous_crystal_block_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/blyamorous_crystal_block_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "XlorisEndstoneElement",
+      "type": "endstone",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_endstone_element",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "XlorisEndBiomeElement",
+      "type": "endbiome",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xloris_end_biome_element",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "RoundUpToTheInevitableEnd",
+      "type": "musicdisc",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "round_up_to_the_inevitable_end",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/item/RoundUpToTheInevitableEndItem.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/round_up_to_the_inevitable_end.json"
+        ]
+      }
+    },
+    {
+      "name": "BlyamorousCluster",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blyamorous_cluster",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/blyamorous_cluster.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/BlyamorousClusterBlock.java",
+          "src/main/resources/assets/areas_undiscovered/blockstates/blyamorous_cluster.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/blyamorous_cluster.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/blyamorous_cluster.json"
+        ]
+      }
+    },
+    {
+      "name": "AreasUndiscoveredEndBlocksAndItems",
+      "type": "tab",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "areas_undiscovered_end_blocks_and_items",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "MiteInfestationEffectStartedapplied",
+      "type": "procedure",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mite_infestation_effect_startedapplied",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/MiteInfestationEffectStartedappliedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MiteInfestationEffectExpires",
+      "type": "procedure",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mite_infestation_effect_expires",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/MiteInfestationEffectExpiresProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MiteInfestation",
+      "type": "potioneffect",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mite_infestation",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/potion/MiteInfestationMobEffect.java"
+        ]
+      }
+    },
+    {
+      "name": "MiteInfestationPotion",
+      "type": "potion",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mite_infestation_potion",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "MiteInfestationOnEffectActiveTick",
+      "type": "procedure",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mite_infestation_on_effect_active_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/MiteInfestationOnEffectActiveTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EndothermicHighlands",
+      "type": "biome",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endothermic_highlands",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/biome/endothermic_highlands.json"
+        ]
+      }
+    },
+    {
+      "name": "IcePile",
+      "type": "feature",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_pile",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/ice_pile.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/ice_pile_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/ice_pile.json"
+        ]
+      }
+    },
+    {
+      "name": "EndothermicHighlandsBiome",
+      "type": "endbiome",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endothermic_highlands_biome",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "EndothermicBarrens",
+      "type": "biome",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endothermic_barrens",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/biome/endothermic_barrens.json"
+        ]
+      }
+    },
+    {
+      "name": "IceCrystal",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_crystal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/block/ice_crystal.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/ice_crystal.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/ice_crystal.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/IceCrystalBlock.java",
+          "src/main/resources/assets/areas_undiscovered/blockstates/ice_crystal.json"
+        ]
+      }
+    },
+    {
+      "name": "IceCrystalOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_crystal_on_block_right_clicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/IceCrystalOnBlockRightClickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IceCrystalOnBlockHitByProjectile",
+      "type": "procedure",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_crystal_on_block_hit_by_projectile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/IceCrystalOnBlockHitByProjectileProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IceCrystalEntityCollidesInTheBlock",
+      "type": "procedure",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_crystal_entity_collides_in_the_block",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/IceCrystalEntityCollidesInTheBlockProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IceCrystalUpdateTick",
+      "type": "procedure",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_crystal_update_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/IceCrystalUpdateTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BuddingBlyamorousCrystal",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "budding_blyamorous_crystal",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/budding_blyamorous_crystal.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/budding_blyamorous_crystal.json",
+          "src/main/resources/assets/areas_undiscovered/models/block/budding_blyamorous_crystal.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/budding_blyamorous_crystal.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/BuddingBlyamorousCrystalBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "EndothermicMidlands",
+      "type": "biome",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endothermic_midlands",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/biome/endothermic_midlands.json"
+        ]
+      }
+    },
+    {
+      "name": "MagnetPainting",
+      "type": "painting",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magnet_painting",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "VulkanoikLavaLands",
+      "type": "biome",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vulkanoik_lava_lands",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/biome/vulkanoik_lava_lands.json"
+        ]
+      }
+    },
+    {
+      "name": "Vulkanoik",
+      "type": "dimension",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vulkanoik",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/dimension/vulkanoik.json",
+          "src/main/java/net/erzekawek/areasundiscovered/world/dimension/VulkanoikDimension.java",
+          "src/main/resources/data/areas_undiscovered/dimension_type/vulkanoik.json"
+        ]
+      }
+    },
+    {
+      "name": "TherianBlintlight",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "therian_blintlight",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/block/therian_blintlight.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/TherianBlintlightBlock.java",
+          "src/main/resources/assets/areas_undiscovered/blockstates/therian_blintlight.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/therian_blintlight.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/therian_blintlight.json"
+        ]
+      }
+    },
+    {
+      "name": "Blintcore",
+      "type": "block",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blintcore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/block/blintcore.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/blintcore.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/blintcore.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/BlintcoreBlock.java",
+          "src/main/resources/assets/areas_undiscovered/blockstates/blintcore.json"
+        ]
+      }
+    },
+    {
+      "name": "ActivatedBlintcore",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "activated_blintcore",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/block/ActivatedBlintcoreBlock.java",
+          "src/main/resources/assets/areas_undiscovered/models/block/activated_blintcore.json",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/activated_blintcore.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/activated_blintcore.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/activated_blintcore.json"
+        ]
+      }
+    },
+    {
+      "name": "Rhondenite",
+      "type": "item",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rhondenite",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/item/RhondeniteItem.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/rhondenite.json"
+        ]
+      }
+    },
+    {
+      "name": "PurifiedRhondenite",
+      "type": "item",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purified_rhondenite",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/item/PurifiedRhondeniteItem.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/purified_rhondenite.json"
+        ]
+      }
+    },
+    {
+      "name": "PurifiedRhondeniteRecipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purified_rhondenite_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/purified_rhondenite_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "PurifiedRhondeniteRightclickedOnBlock",
+      "type": "procedure",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purified_rhondenite_rightclicked_on_block",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/PurifiedRhondeniteRightclickedOnBlockProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ActivateBlintcore",
+      "type": "achievement",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "activate_blintcore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/advancements/activate_blintcore.json"
+        ]
+      }
+    },
+    {
+      "name": "ItDidAbsolutelyNothing",
+      "type": "achievement",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "it_did_absolutely_nothing",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/advancements/it_did_absolutely_nothing.json"
+        ]
+      }
+    },
+    {
+      "name": "RuinedAltar",
+      "type": "structure",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruined_altar",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/structure_set/ruined_altar.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/structure/ruined_altar.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/template_pool/ruined_altar.json"
+        ]
+      }
+    },
+    {
+      "name": "Pillars",
+      "type": "feature",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pillars",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/pillars_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/pillars.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/pillars.json"
+        ],
+        "has_nbt_structure": true
+      }
+    },
+    {
+      "name": "AreasUndiscoveredInterdimensional",
+      "type": "tab",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "areas_undiscovered_interdimensional",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "ExplodeCommand",
+      "type": "procedure",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "explode_command",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/procedures/ExplodeCommandProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Explode",
+      "type": "command",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "explode",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/command/ExplodeCommand.java"
+        ]
+      }
+    },
+    {
+      "name": "BlueIceCrystal",
+      "type": "block",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_ice_crystal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/block/blue_ice_crystal.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/blue_ice_crystal.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/blue_ice_crystal.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/BlueIceCrystalBlock.java",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/blue_ice_crystal.json"
+        ]
+      }
+    },
+    {
+      "name": "AreasUndiscoveredOverworld",
+      "type": "tab",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "areas_undiscovered_overworld",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "PaintedPlains",
+      "type": "biome",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_landscapes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/biome/painted_landscapes.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations1",
+      "type": "feature",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_1_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_1.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_1.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations2",
+      "type": "feature",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_2.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_2.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_2_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations3",
+      "type": "feature",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_3_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_3.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_3.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations4",
+      "type": "feature",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_4_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_4.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_4.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations5",
+      "type": "feature",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_5.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_5.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_5_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations6",
+      "type": "feature",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_6.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_6_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_6.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations7",
+      "type": "feature",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_7_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_7.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_7.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations8",
+      "type": "feature",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_8.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_8_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_8.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations9",
+      "type": "feature",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_9.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_9_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_9.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations10",
+      "type": "feature",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_10_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_10.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_10.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations11",
+      "type": "feature",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_11_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_11.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_11.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations12",
+      "type": "feature",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_12",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_12.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_12_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_12.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations13",
+      "type": "feature",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_13",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_13_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_13.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_13.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations14",
+      "type": "feature",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_14",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_14.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_14.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_14_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations15",
+      "type": "feature",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_15",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_15_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_15.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_15.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations16",
+      "type": "feature",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_16",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_16.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_16_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_16.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTerracottaFormations17",
+      "type": "feature",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_terracotta_formations_17",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_terracotta_formations_17_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_terracotta_formations_17.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_terracotta_formations_17.json"
+        ]
+      }
+    },
+    {
+      "name": "PaintedPlainsTrees",
+      "type": "feature",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "painted_plains_trees",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/worldgen/placed_feature/painted_plains_trees.json",
+          "src/main/resources/data/areas_undiscovered/forge/biome_modifier/painted_plains_trees_biome_modifier.json",
+          "src/main/resources/data/areas_undiscovered/worldgen/configured_feature/painted_plains_trees.json"
+        ]
+      }
+    },
+    {
+      "name": "Ashes",
+      "type": "item",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ashes",
+      "metadata": {
+        "files": [
+          "src/main/java/net/erzekawek/areasundiscovered/item/AshesItem.java",
+          "src/main/resources/assets/areas_undiscovered/models/item/ashes.json"
+        ]
+      }
+    },
+    {
+      "name": "AshBlock",
+      "type": "block",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ash_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/areas_undiscovered/models/block/ash_block.json",
+          "src/main/resources/assets/areas_undiscovered/models/item/ash_block.json",
+          "src/main/java/net/erzekawek/areasundiscovered/block/AshBlockBlock.java",
+          "src/main/resources/data/areas_undiscovered/loot_tables/blocks/ash_block.json",
+          "src/main/resources/assets/areas_undiscovered/blockstates/ash_block.json"
+        ]
+      }
+    },
+    {
+      "name": "GrayConcretePowder",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_concrete_powder",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/areas_undiscovered/recipes/gray_concrete_powder.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "ender",
+      "files": [
+        "cliffside_hinson",
+        "dusk_walker",
+        "enderion_peaks",
+        "total_darkness"
+      ],
+      "category": "music",
+      "subtitle": "music"
+    },
+    {
+      "name": "round_up_to_the_inevitable_end",
+      "files": [
+        "inevitable_end"
+      ],
+      "category": "record",
+      "subtitle": "C418 - Round Up To The Inevitable End"
+    },
+    {
+      "name": "desolate",
+      "files": [
+        "desolate"
+      ],
+      "category": "music",
+      "subtitle": "Desolate"
+    }
+  ],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/hoe": [
+      "~CUSTOM:ActivatedBlintcore",
+      "~CUSTOM:TherianBlintlight",
+      "~CUSTOM:TherianMoss",
+      "~CUSTOM:TherianWart",
+      "~CUSTOM:XlorisLeaves"
+    ],
+    "BIOMES:minecraft:has_structure/ruined_portal_nether": [
+      "~CUSTOM:TherianHeights"
+    ],
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:RoundUpToTheInevitableEnd"
+    ],
+    "BLOCKS:minecraft:overworld_carver_replaceables": [
+      "~Blocks.BASALT",
+      "~Blocks.BLACKSTONE"
+    ],
+    "BLOCKS:minecraft:logs": [
+      "CUSTOM:XlorisWood",
+      "CUSTOM:XlorisLog"
+    ],
+    "BLOCKS:minecraft:leaves": [
+      "CUSTOM:XlorisLeaves"
+    ],
+    "BLOCKS:minecraft:dragon_immune": [
+      "CUSTOM:XlorisEndlyum",
+      "CUSTOM:XlorisWood",
+      "CUSTOM:XlorisLog",
+      "CUSTOM:XlorisPlanks",
+      "CUSTOM:XlorisStairs",
+      "CUSTOM:XlorisSlab",
+      "CUSTOM:XlorisFence",
+      "CUSTOM:XlorisFenceGate",
+      "CUSTOM:XlorisPressurePlate",
+      "CUSTOM:XlorisButton",
+      "CUSTOM:XlorisDoor",
+      "CUSTOM:XlorisTrapdoor",
+      "CUSTOM:XlorisJelly",
+      "CUSTOM:EnderDesertBarbs",
+      "CUSTOM:XlorisGrass",
+      "CUSTOM:XlorisLeaves"
+    ],
+    "BLOCKS:mod:xloris_stems": [
+      "CUSTOM:XlorisLog",
+      "CUSTOM:StrippedXlorisLog"
+    ],
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:BlueIceCrystal",
+      "~CUSTOM:Blintcore",
+      "~CUSTOM:BuddingBlyamorousCrystal",
+      "~CUSTOM:IceCrystal",
+      "~CUSTOM:BlyamorousCluster",
+      "~CUSTOM:BlyamorousCrystalBlock",
+      "~CUSTOM:TherianNylium",
+      "~CUSTOM:XlorisEndlyum"
+    ],
+    "BLOCKS:minecraft:mineable/axe": [
+      "~CUSTOM:TherianTrapdoor",
+      "~CUSTOM:TherianDoor",
+      "~CUSTOM:StrippedTherianHyphae",
+      "~CUSTOM:StrippedTherianStem",
+      "~CUSTOM:TherianPlanks",
+      "~CUSTOM:TherianLog",
+      "~CUSTOM:TherianWood",
+      "~CUSTOM:StrippedXlorisWood",
+      "~CUSTOM:StrippedXlorisLog",
+      "~CUSTOM:XlorisTrapdoor",
+      "~CUSTOM:XlorisDoor",
+      "~CUSTOM:XlorisPlanks",
+      "~CUSTOM:XlorisLog",
+      "~CUSTOM:XlorisWood"
+    ],
+    "BLOCKS:minecraft:slabs": [
+      "~CUSTOM:TherianSlab",
+      "~CUSTOM:XlorisSlab"
+    ],
+    "BLOCKS:mod:xloris_stem": [
+      "CUSTOM:XlorisLog"
+    ],
+    "BLOCKS:minecraft:fences": [
+      "~CUSTOM:TherianFence",
+      "~CUSTOM:XlorisFence"
+    ],
+    "BLOCKS:minecraft:needs_stone_tool": [
+      "~CUSTOM:BlueIceCrystal",
+      "~CUSTOM:IceCrystal",
+      "~CUSTOM:BlyamorousCluster",
+      "~CUSTOM:TherianNylium",
+      "~CUSTOM:TherianMoss"
+    ],
+    "BIOMES:minecraft:has_structure/bastion_remnant": [
+      "~CUSTOM:TherianHeights"
+    ],
+    "BLOCKS:minecraft:mineable/shovel": [
+      "~CUSTOM:AshBlock"
+    ],
+    "BLOCKS:minecraft:stairs": [
+      "~CUSTOM:TherianStairs",
+      "~CUSTOM:XlorisStairs"
+    ],
+    "BIOMES:minecraft:has_structure/village_plains": [
+      "~CUSTOM:OakBambooForest"
+    ]
+  },
+  "language_map": {
+    "en_us": {
+      "biome.netherenditions.sparse_xloris_forest": "Xloris Forest",
+      "block.areas_undiscovered.stripped_xloris_wood": "Stripped Xloris Wood",
+      "block.areas_undiscovered.therian_fence_gate": "Therian Fence Gate",
+      "block.areas_undiscovered.therian_nylium": "Therian Nylium",
+      "item_group.netherenditions.areas_undiscovered_blocks": "Netherenditions - Blocks",
+      "block.areas_undiscovered.ice_crystal": "Ice Crystal",
+      "advancements.shiny.title": "Shiny.........",
+      "block.netherenditions.xloris_planks": "Xloris Planks",
+      "block.areas_undiscovered.blintcore": "Blintcore",
+      "item_group.areas_undiscovered.areas_undiscovered_overworld": "Areas Undiscovered - Overworld",
+      "item_group.areas_undiscovered.areas_undiscovered_interdimensional": "Areas Undiscovered - Interdimensional",
+      "item.minecraft.splash_potion.effect.mite_infestation_potion": "Splash Potion of Mite Infestation",
+      "block.areas_undiscovered.xloris_slab": "Xloris Slab",
+      "block.netherenditions.therian_planks": "Therian Planks",
+      "block.netherenditions.stripped_therian_hyphae": "Stripped Therian Hyphae",
+      "item_group.areas_undiscovered.areas_undiscovered_end_blocks_and_items": "Areas Undiscovered - End",
+      "block.netherenditions.xloris_trapdoor": "Xloris Trapdoor",
+      "advancements.netherenditions.descr": "Thanks for Using This Mod!",
+      "block.areas_undiscovered.therian_stairs": "Therian Stairs",
+      "painting.areas_undiscovered.magnet_painting.title": "Magnet",
+      "block.netherenditions.metal_sponge": "Metal Sponge",
+      "item.areas_undiscovered.round_up_to_the_inevitable_end.desc": "C418 - Round Up To The Inevitable End",
+      "death.attack.soul_sucking.player": "%1$s Got their Soul Sucked whilst trying to escape %2$s",
+      "biome.areas_undiscovered.endothermic_highlands": "Endothermic Highlands",
+      "item.areas_undiscovered.blyamorous": "Blyamorous Shard",
+      "advancements.netherenditions_nether.title": "Areas Undiscovered - Nether",
+      "advancements.it_did_absolutely_nothing.title": "It did Absolutely Nothing",
+      "block.areas_undiscovered.xloris_endlyum": "Xloris Endlyum",
+      "advancements.netherenditions_end.descr": "Enter The End",
+      "block.netherenditions.therian_slab": "Therian Slab",
+      "block.netherenditions_revived.xloris_endlyum": "Xloris Endlyum",
+      "biome.areas_undiscovered.painted_landscapes": "Painted Landscapes",
+      "block.areas_undiscovered.metal_sponge": "Metal Sponge",
+      "item.minecraft.potion.effect.mite_infestation_potion": "Potion of Mite Infestation",
+      "block.netherenditions.therian_trapdoor": "Therian Trapdoor",
+      "block.areas_undiscovered.stripped_xloris_log": "Stripped Xloris Log",
+      "advancements.activate_blintcore.title": "What Does this Do?",
+      "block.netherenditions.xloris_stem": "Xloris Log",
+      "block.netherenditions.therian_fence_gate": "Therian Fence Gate",
+      "block.netherenditions.xloris_grass": "Xloris Grass",
+      "block.areas_undiscovered.xloris_jelly": "Xloris Jelly",
+      "item.areas_undiscovered.ashes": "Ashes",
+      "subtitles.end.music.alphaicend": "Alphaic End",
+      "block.areas_undiscovered.therian_trapdoor": "Therian Trapdoor",
+      "block.areas_undiscovered.xloris_leaves": "Xloris Leaves",
+      "block.areas_undiscovered.xloris_grass": "Xloris Grass",
+      "block.areas_undiscovered.stripped_therian_stem": "Stripped Therian Stem",
+      "subtitles.end.music.common": "C418 and Others",
+      "block.areas_undiscovered.therian_blintlight": "Therian Blintlight",
+      "block.netherenditions.xloris_button": "Xloris Button",
+      "block.areas_undiscovered.blyamorous_cluster": "Blyamorous Cluster",
+      "block.areas_undiscovered.ender_desert_barbs": "Ender Desert Barbs",
+      "item.areas_undiscovered.rhondenite": "Rhondenite",
+      "painting.areas_undiscovered.magnet_painting.author": "Wave72",
+      "block.netherenditions.therian_button": "Therian Button",
+      "block.areas_undiscovered.budding_blyamorous_crystal": "Budding Blyamorous Crystal Block",
+      "block.areas_undiscovered.therian_button": "Therian Button",
+      "block.areas_undiscovered.xloris_pressure_plate": "Xloris Pressure Plate",
+      "biome.areas_undiscovered.sparse_xloris_forest": "Xloris Forest",
+      "biome.netherenditions.therian_heights": "Therian Heights",
+      "biome.areas_undiscovered.xloris_forest": "Xloris Forest",
+      "advancements.netherenditions_nether.descr": "Enter The Nether",
+      "block.netherenditions.soaked_metal_sponge": "Soaked Metal Sponge",
+      "block.areas_undiscovered.therian_log": "Therian Stem",
+      "subtitles.desolate": "Desolate",
+      "item_group.areas_undiscovered.areas_undiscovered_blocks": "Areas Undiscovered - Nether",
+      "death.attack.soul_sucking.item": "%1$s was unalived by %2$s using %3$s",
+      "block.areas_undiscovered.therian_slab": "Therian Slab",
+      "block.areas_undiscovered.xloris_planks": "Xloris Planks",
+      "block.netherenditions.xloris_endlyum": "Xloris Endlyum",
+      "advancements.netherenditions_end.title": "Areas Undiscovered - End",
+      "subtitles.ender": "music",
+      "block.netherenditions.therian_pressure_plate": "Therian Pressure Plate",
+      "block.areas_undiscovered.ash_block": "Ash Block",
+      "block.areas_undiscovered.therian_planks": "Therian Planks",
+      "block.areas_undiscovered.blue_ice_crystal": "Blue Ice Crystal",
+      "biome.netherenditions.xloris_forest": "Xloris Forest",
+      "item.minecraft.tipped_arrow.effect.mite_infestation_potion": "Arrow of Mite Infestation",
+      "block.areas_undiscovered.xloris_stem": "Xloris Log",
+      "block.netherenditions.large_soul_therian_flower": "Large Soul Therian Flower",
+      "block.areas_undiscovered.large_soul_therian_flower": "Large Soul Therian Flower",
+      "biome.netherenditions_revived.xloris_forest": "Xloris Forest",
+      "block.netherenditions.xloris_stairs": "Xloris Stairs",
+      "block.netherenditions.ender_desert_barbs": "Ender Desert Barbs",
+      "block.netherenditions.therian_fence": "Therian Fence",
+      "block.netherenditions.therian_door": "Therian Door",
+      "block.netherenditions.therian_stairs": "Therian Stairs",
+      "item.minecraft.lingering_potion.effect.mite_infestation_potion": "Lingering Potion of Mite Infestation",
+      "block.areas_undiscovered.xloris_fence_gate": "Xloris Fence Gate",
+      "advancements.shiny.descr": "Obtain A Blyamorous Crystal",
+      "advancements.netherenditions.title": "Areas Undiscovered!",
+      "block.areas_undiscovered.blyamorous_crystal_block": "Block Of Blyamorous Crystal",
+      "item_group.netherenditions_revived.netherenditions_blocks": "Netherenditions - Blocks",
+      "item.areas_undiscovered.purified_rhondenite": "Purified Rhondenite",
+      "block.netherenditions.stripped_xloris_log": "Stripped Xloris Log",
+      "block.netherenditions.therian_log": "Therian Stem",
+      "block.netherenditions.xloris_door": "Xloris Door",
+      "block.areas_undiscovered.xloris_trapdoor": "Xloris Trapdoor",
+      "block.areas_undiscovered.activated_blintcore": "Activated Blintcore",
+      "block.areas_undiscovered.therian_moss": "Therian Moss",
+      "block.netherenditions.therian_wood": "Therian Hyphae",
+      "block.netherenditions.xloris_wood": "Xloris Wood",
+      "death.attack.prickled_ender.player": "%1$s was Barbed to Death by an Ender Desert Barb whilst trying to escape %2$s",
+      "block.netherenditions.xloris_fence_gate": "Xloris Fence Gate",
+      "advancements.activate_blintcore.descr": "Activate the Therian Blintcore",
+      "block.netherenditions.xloris_leaves": "Xloris Leaves",
+      "block.areas_undiscovered.therian_pressure_plate": "Therian Pressure Plate",
+      "block.areas_undiscovered.stripped_therian_hyphae": "Stripped Therian Hyphae",
+      "effect.areas_undiscovered.mite_infestation": "Mite Infestation",
+      "biome.areas_undiscovered.vulkanoik_lava_lands": "Vulkanoik Lava Lands",
+      "death.attack.soul_sucking": "%1$s Got their Soul Sucked",
+      "block.areas_undiscovered.xloris_fence": "Xloris Fence",
+      "block.netherenditions.therian_moss": "Therian Moss",
+      "subtitles.round_up_to_the_inevitable_end": "C418 - Round Up To The Inevitable End",
+      "advancements.it_did_absolutely_nothing.descr": "Use Purified Rhendonite on any block",
+      "block.areas_undiscovered.soaked_metal_sponge": "Soaked Metal Sponge",
+      "death.attack.prickled_ender": "%1$s was Barbed to Death by an Ender Desert Barb",
+      "subtitles.aunethermusic": "music",
+      "block.netherenditions.therian_wart": "Therian Wart",
+      "item.areas_undiscovered.round_up_to_the_inevitable_end": "Music Disc",
+      "death.attack.prickled_ender.item": "%1$s was killed by %2$s using %3$s",
+      "biome.areas_undiscovered.endothermic_barrens": "Endothermic Barrens",
+      "block.netherenditions.large_therian_flower": "Large Therian Flower",
+      "biome.areas_undiscovered.endothermic_midlands": "Endothermic Midlands",
+      "block.areas_undiscovered.therian_wart": "Therian Wart",
+      "block.netherenditions.xloris_slab": "Xloris Slab",
+      "block.netherenditions.stripped_therian_stem": "Stripped Therian Stem",
+      "biome.areas_undiscovered.oak_bamboo_forest": "Oak Bamboo Forest",
+      "block.netherenditions.xloris_jelly": "Xloris Jelly",
+      "block.areas_undiscovered.large_therian_flower": "Large Therian Flower",
+      "block.netherenditions.xloris_pressure_plate": "Xloris Pressure Plate",
+      "block.areas_undiscovered.xloris_stairs": "Xloris Stairs",
+      "block.areas_undiscovered.therian_fence": "Therian Fence",
+      "block.areas_undiscovered.xloris_wood": "Xloris Wood",
+      "block.areas_undiscovered.xloris_button": "Xloris Button",
+      "block.netherenditions.stripped_xloris_wood": "Stripped Xloris Wood",
+      "subtitles.inevitable_end": "C418 - Round Up To An Inevitable End",
+      "block.areas_undiscovered.xloris_door": "Xloris Door",
+      "block.areas_undiscovered.therian_wood": "Therian Hyphae",
+      "block.netherenditions.xloris_fence": "Xloris Fence",
+      "block.areas_undiscovered.therian_door": "Therian Door",
+      "biome.areas_undiscovered.therian_heights": "Therian Heights"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "PaintedPlainsFeatureStuff",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "areas_undiscovered",
+    "modName": "Areas Undiscovered",
+    "version": "1.0.24",
+    "description": "Discover the Undiscovered Areas!",
+    "author": "ErzeKawek, Woorlay, C418, \u0026 Bottetoundra719",
+    "websiteURL": "https://modrinth.com/project/areas-undiscovered",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "modPicture": "icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Hey",
+    "modElementsPackage": "net.erzekawek.areasundiscovered"
+  },
+  "mcreatorVersion": 202400118518
+}

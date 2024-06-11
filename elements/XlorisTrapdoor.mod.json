@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 60,
   "_type": "block",
   "definition": {
     "texture": "xloris_trapdoor",
@@ -19,7 +19,7 @@
     "blockBase": "TrapDoor",
     "tintType": "No tint",
     "isItemTinted": false,
-    "hasTransparency": false,
+    "hasTransparency": true,
     "connectedSides": false,
     "transparencyType": "CUTOUT_MIPPED",
     "disableOffset": false,
@@ -43,7 +43,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:NetherenditionsBlocks"
+      "value": "CUSTOM:AreasUndiscoveredEndBlocksAndItems"
     },
     "destroyTool": "axe",
     "customDrop": {

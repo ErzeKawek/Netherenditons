@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 60,
   "_type": "block",
   "definition": {
     "texture": "xloris_stem_side",
@@ -42,7 +42,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:NetherenditionsBlocks"
+      "value": "CUSTOM:AreasUndiscoveredEndBlocksAndItems"
     },
     "destroyTool": "axe",
     "customDrop": {
@@ -119,6 +119,9 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
+    "onRightClicked": {
+      "name": "XlorisWoodStripping"
+    },
     "generateFeature": false,
     "restrictionBiomes": [],
     "blocksToReplace": [

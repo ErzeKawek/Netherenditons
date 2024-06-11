@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "areas_undiscovered:xloris_forest",
+  "features": "areas_undiscovered:chorus_plants",
+  "step": "surface_structures"
+}

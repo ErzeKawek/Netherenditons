@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "areas_undiscovered:block/xloris_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "areas_undiscovered:block/xloris_wood"
+    },
+    "axis=z": {
+      "model": "areas_undiscovered:block/xloris_wood",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "areas_undiscovered",
+  "version": "1.1.0",
+  "name": "Areas Undiscovered",
+  "description": "Discover the Unmapped Areas!",
+  "authors": [
+    "ErzeKawek, Woorlay"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/project/areas-undiscovered",
+    "sources": ""
+  },
+  "license": "MIT License",
+  "accessWidener": "areas_undiscovered.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.erzekawek.areasundiscovered.AreasUndiscoveredMod"
+    ],
+    "client": [
+      "net.erzekawek.areasundiscovered.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "areas_undiscovered.mixins.json"
+  ]
+}

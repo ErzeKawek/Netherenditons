@@ -1,9 +1,9 @@
 {
-  "_fv": 57,
+  "_fv": 60,
   "_type": "block",
   "definition": {
-    "texture": "xloris_door_bottom",
-    "textureTop": "xloris_door_top",
+    "texture": "xloris_door_lowerhalf",
+    "textureTop": "xloris_door_upper_half",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
@@ -14,12 +14,12 @@
     "enablePitch": false,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
-    "itemTexture": "",
+    "itemTexture": "xloris_door_item_form",
     "particleTexture": "",
     "blockBase": "Door",
     "tintType": "No tint",
     "isItemTinted": false,
-    "hasTransparency": false,
+    "hasTransparency": true,
     "connectedSides": false,
     "transparencyType": "CUTOUT_MIPPED",
     "disableOffset": false,
@@ -43,7 +43,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:NetherenditionsBlocks"
+      "value": "CUSTOM:AreasUndiscoveredEndBlocksAndItems"
     },
     "destroyTool": "axe",
     "customDrop": {

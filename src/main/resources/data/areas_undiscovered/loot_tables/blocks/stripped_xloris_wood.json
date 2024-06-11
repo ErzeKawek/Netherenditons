@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "areas_undiscovered:blocks/stripped_xloris_wood",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "areas_undiscovered:stripped_xloris_wood"
+        }
+      ]
+    }
+  ]
+}

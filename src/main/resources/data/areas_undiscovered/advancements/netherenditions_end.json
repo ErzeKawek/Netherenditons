@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "areas_undiscovered:xloris_endlyum"
+    },
+    "title": {
+      "translate": "advancements.netherenditions_end.title"
+    },
+    "description": {
+      "translate": "advancements.netherenditions_end.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "netherenditions_end_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_end"
+      }
+    }
+  },
+  "parent": "areas_undiscovered:netherenditions"
+}

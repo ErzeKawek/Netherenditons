@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "areas_undiscovered:item/xloris_door_item_form"
+  },
+  "render_type": "translucent"
+}

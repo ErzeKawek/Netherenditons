@@ -52,9 +52,9 @@ dependencies {
 }
 
 mixin {
-    add sourceSets.main, 'mixins.netherenditions.refmap.json'
+    add sourceSets.main, 'mixins.areas_undiscovered.refmap.json'
 
-    config 'mixins.netherenditions.json'
+    config 'mixins.areas_undiscovered.json'
 
     debug.verbose = true
     debug.export = true

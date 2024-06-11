@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 60,
   "_type": "biome",
   "definition": {
     "name": "Xloris Forest",
@@ -27,7 +27,7 @@
       "value": ""
     },
     "music": {
-      "value": "CUSTOM:end.music.common"
+      "value": "CUSTOM:ender"
     },
     "moodSound": {
       "value": ""

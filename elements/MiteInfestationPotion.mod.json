@@ -1,0 +1,21 @@
+{
+  "_fv": 60,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Mite Infestation",
+    "splashName": "Splash Potion of Mite Infestation",
+    "lingeringName": "Lingering Potion of Mite Infestation",
+    "arrowName": "Arrow of Mite Infestation",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:MiteInfestation"
+        },
+        "duration": 3600,
+        "amplifier": 1,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

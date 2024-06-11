@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "areas_undiscovered:blocks/therian_wood",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "areas_undiscovered:therian_wood"
+        }
+      ]
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "_fv": 57,
+  "_fv": 60,
   "_type": "tab",
   "definition": {
-    "name": "Netherenditions - Blocks",
+    "name": "Areas Undiscovered - Nether",
     "icon": {
-      "value": "CUSTOM:XlorisEndlyum"
+      "value": "CUSTOM:TherianNylium"
     },
     "showSearch": false
   }

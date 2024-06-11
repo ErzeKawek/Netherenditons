@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 60,
   "_type": "block",
   "definition": {
     "texture": "xloris_planks",
@@ -43,7 +43,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:NetherenditionsBlocks"
+      "value": "CUSTOM:AreasUndiscoveredEndBlocksAndItems"
     },
     "destroyTool": "Not specified",
     "customDrop": {

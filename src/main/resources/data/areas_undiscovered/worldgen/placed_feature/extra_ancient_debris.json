@@ -1,0 +1,23 @@
+{
+  "feature": "areas_undiscovered:extra_ancient_debris",
+  "placement": [
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": 5
+        },
+        "max_inclusive": {
+          "absolute": 54
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

@@ -1,7 +1,0 @@
-{
-  "parent": "block/template_fence_gate_wall_open",
-  "textures": {
-    "texture": "netherenditions:block/xloris_planks"
-  },
-  "render_type": "solid"
-}

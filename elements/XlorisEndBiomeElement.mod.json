@@ -1,0 +1,19 @@
+{
+  "_fv": 60,
+  "_type": "endbiome",
+  "definition": {
+    "biome": "XlorisForest",
+    "generationType": "Highlands",
+    "weight": 0.7000000000000001,
+    "midlands": "SparseXlorisForest",
+    "barrens": "Vanilla",
+    "mixins": [
+      "BiomeSourceMixin",
+      "TheEndBiomeSourceMixin",
+      "ClimateSamplerMixin",
+      "NoiseConfigMixin",
+      "ChunkNoiseSamplerMixin",
+      "NoiseGeneratorSettingsAccess"
+    ]
+  }
+}

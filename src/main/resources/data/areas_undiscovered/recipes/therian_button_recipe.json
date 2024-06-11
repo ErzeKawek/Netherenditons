@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "areas_undiscovered:therian_planks"
+    }
+  ],
+  "result": {
+    "item": "areas_undiscovered:therian_button",
+    "count": 1
+  }
+}

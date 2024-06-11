@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "areas_undiscovered:ruined_altar",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 28,
+    "separation": 23,
+    "salt": 1788789076
+  }
+}

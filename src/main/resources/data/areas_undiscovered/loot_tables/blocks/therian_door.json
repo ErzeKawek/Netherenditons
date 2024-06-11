@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "areas_undiscovered:blocks/therian_door",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "areas_undiscovered:therian_door",
+          "conditions": [
+            {
+              "block": "areas_undiscovered:therian_door",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "COMMON",
+    "texture": "music_disc_round_up_to_the_inevitable_end",
+    "description": "C418 - Round Up To The Inevitable End",
+    "creativeTab": {
+      "value": "CUSTOM:NetherenditionsBlocks"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:round_up_to_the_inevitable_end"
+    },
+    "lengthInTicks": 420,
+    "analogOutput": 12
+  }
+}

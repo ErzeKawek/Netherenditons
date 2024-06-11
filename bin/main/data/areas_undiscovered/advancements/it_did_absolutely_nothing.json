@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "areas_undiscovered:purified_rhondenite"
+    },
+    "title": {
+      "translate": "advancements.it_did_absolutely_nothing.title"
+    },
+    "description": {
+      "translate": "advancements.it_did_absolutely_nothing.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "it_did_absolutely_nothing_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "areas_undiscovered:netherenditions_nether"
+}

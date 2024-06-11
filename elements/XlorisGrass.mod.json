@@ -1,12 +1,12 @@
 {
-  "_fv": 57,
+  "_fv": 60,
   "_type": "plant",
   "definition": {
     "renderType": 12,
     "texture": "xloris_grass",
     "textureBottom": "",
     "customModelName": "Cross model",
-    "itemTexture": "xloris_grass_iten",
+    "itemTexture": "xloris_g_item",
     "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
@@ -33,7 +33,7 @@
       "fixedValue": []
     },
     "creativeTab": {
-      "value": "CUSTOM:NetherenditionsBlocks"
+      "value": "CUSTOM:AreasUndiscoveredEndBlocksAndItems"
     },
     "hardness": 0.0,
     "resistance": 0.0,
@@ -84,7 +84,7 @@
       }
     ],
     "isBonemealable": false,
-    "frequencyOnChunks": 1,
+    "frequencyOnChunks": 10,
     "generateFeature": true,
     "restrictionBiomes": [
       {

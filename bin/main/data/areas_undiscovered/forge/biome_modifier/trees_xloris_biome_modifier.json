@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "areas_undiscovered:xloris_forest"
+  ],
+  "features": "areas_undiscovered:trees/trees_xloris",
+  "step": "surface_structures"
+}

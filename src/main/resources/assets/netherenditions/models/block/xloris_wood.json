@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "netherenditions:block/xloris_stem_side",
-    "particle": "netherenditions:block/xloris_stem_side"
-  },
-  "render_type": "solid"
-}

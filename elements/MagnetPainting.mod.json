@@ -1,0 +1,11 @@
+{
+  "_fv": 60,
+  "_type": "painting",
+  "definition": {
+    "texture": "magnet.png",
+    "width": 64,
+    "height": 64,
+    "title": "Magnet",
+    "author": "Wave72"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "areas_undiscovered:block/therian_blintlight_var1",
+    "particle": "areas_undiscovered:block/therian_blintlight_var1"
+  },
+  "render_type": "solid"
+}

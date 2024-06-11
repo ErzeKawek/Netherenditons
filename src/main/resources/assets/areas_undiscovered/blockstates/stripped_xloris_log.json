@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "areas_undiscovered:block/stripped_xloris_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "areas_undiscovered:block/stripped_xloris_log"
+    },
+    "axis=z": {
+      "model": "areas_undiscovered:block/stripped_xloris_log",
+      "x": 90
+    }
+  }
+}

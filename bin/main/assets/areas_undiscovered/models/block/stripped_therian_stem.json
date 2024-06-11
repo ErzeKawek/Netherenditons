@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "areas_undiscovered:block/stripped_therian_stem_top",
+    "up": "areas_undiscovered:block/stripped_therian_stem_top",
+    "north": "areas_undiscovered:block/stripped_therian_stem_side",
+    "east": "areas_undiscovered:block/stripped_therian_stem_side",
+    "south": "areas_undiscovered:block/stripped_therian_stem_side",
+    "west": "areas_undiscovered:block/stripped_therian_stem_side",
+    "particle": "areas_undiscovered:block/stripped_therian_stem_top"
+  },
+  "render_type": "solid"
+}

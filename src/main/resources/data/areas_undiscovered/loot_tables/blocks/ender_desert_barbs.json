@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "areas_undiscovered:blocks/ender_desert_barbs",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "areas_undiscovered:ender_desert_barbs"
+        }
+      ]
+    }
+  ]
+}

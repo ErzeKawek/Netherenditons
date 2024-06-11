@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:huge_fungus",
+  "config": {
+    "valid_base_block": {
+      "Name": "areas_undiscovered:therian_nylium"
+    },
+    "stem_state": {
+      "Name": "areas_undiscovered:therian_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "hat_state": {
+      "Name": "areas_undiscovered:therian_wart"
+    },
+    "decor_state": {
+      "Name": "areas_undiscovered:therian_blintlight"
+    },
+    "replaceable_blocks": {
+      "type": "minecraft:matching_blocks",
+      "blocks": "#replaceable_by_trees"
+    }
+  }
+}

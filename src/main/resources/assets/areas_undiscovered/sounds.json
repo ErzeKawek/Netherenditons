@@ -1,0 +1,41 @@
+{
+  "ender": {
+    "subtitle": "subtitles.ender",
+    "sounds": [
+      {
+        "name": "areas_undiscovered:cliffside_hinson",
+        "stream": true
+      },
+      {
+        "name": "areas_undiscovered:dusk_walker",
+        "stream": true
+      },
+      {
+        "name": "areas_undiscovered:enderion_peaks",
+        "stream": true
+      },
+      {
+        "name": "areas_undiscovered:total_darkness",
+        "stream": true
+      }
+    ]
+  },
+  "round_up_to_the_inevitable_end": {
+    "subtitle": "subtitles.round_up_to_the_inevitable_end",
+    "sounds": [
+      {
+        "name": "areas_undiscovered:inevitable_end",
+        "stream": true
+      }
+    ]
+  },
+  "desolate": {
+    "subtitle": "subtitles.desolate",
+    "sounds": [
+      {
+        "name": "areas_undiscovered:desolate",
+        "stream": true
+      }
+    ]
+  }
+}

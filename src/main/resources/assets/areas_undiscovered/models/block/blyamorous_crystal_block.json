@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "areas_undiscovered:block/blyamorous_crystal_block",
+    "particle": "areas_undiscovered:block/blyamorous_crystal_block"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "areas_undiscovered:item/xloris_g_item"
+  }
+}

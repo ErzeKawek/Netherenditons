@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Blocks.GRAVEL"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AshBlock"
+      },
+      {
+        "value": "CUSTOM:AshBlock"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      },
+      {
+        "value": "CUSTOM:AshBlock"
+      },
+      {
+        "value": "CUSTOM:AshBlock"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CONCRETE_POWDER#7"
+    },
+    "name": "gray_concrete_powder",
+    "namespace": "mod"
+  }
+}

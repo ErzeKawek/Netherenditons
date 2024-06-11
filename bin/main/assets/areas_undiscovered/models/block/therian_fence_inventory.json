@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "areas_undiscovered:block/therian_planks",
+    "particle": "areas_undiscovered:block/therian_planks"
+  },
+  "render_type": "solid"
+}

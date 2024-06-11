@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "areas_undiscovered:therian_planks"
+    }
+  },
+  "result": {
+    "item": "areas_undiscovered:therian_trapdoor",
+    "count": 2
+  }
+}

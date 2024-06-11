@@ -1,0 +1,11 @@
+{
+    "feature": "areas_undiscovered:xloris/xloris_tree/trunk/trunk_layer_3",
+    "placement": [
+      {
+        "type": "minecraft:random_offset",
+        "xz_spread": 0,
+        "y_spread": 8
+      }
+    ]
+  }
+  

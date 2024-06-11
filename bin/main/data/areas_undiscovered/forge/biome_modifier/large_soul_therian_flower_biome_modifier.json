@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "areas_undiscovered:therian_heights",
+    "soul_sand_valley"
+  ],
+  "features": "areas_undiscovered:large_soul_therian_flower",
+  "step": "vegetal_decoration"
+}

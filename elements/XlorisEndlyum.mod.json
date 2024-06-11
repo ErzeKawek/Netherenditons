@@ -1,11 +1,11 @@
 {
-  "_fv": 57,
+  "_fv": 60,
   "_type": "block",
   "definition": {
     "texture": "end_stone_netherenditions_override",
-    "textureTop": "xloris_endlyum_top",
-    "textureLeft": "xloris_endlyum_side",
-    "textureFront": "xloris_endlyum_side",
+    "textureTop": "xloris_endlyum_upface",
+    "textureLeft": "xloris_endlyum_sides",
+    "textureFront": "xloris_endlyum_sides",
     "textureRight": "",
     "textureBack": "",
     "renderType": 14,
@@ -42,7 +42,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:NetherenditionsBlocks"
+      "value": "CUSTOM:AreasUndiscoveredEndBlocksAndItems"
     },
     "destroyTool": "pickaxe",
     "customDrop": {

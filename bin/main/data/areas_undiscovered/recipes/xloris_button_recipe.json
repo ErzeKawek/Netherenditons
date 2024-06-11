@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "areas_undiscovered:xloris_planks"
+    }
+  ],
+  "result": {
+    "item": "areas_undiscovered:xloris_button",
+    "count": 1
+  }
+}

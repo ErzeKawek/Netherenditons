@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "areas_undiscovered:xloris_wood",
+    "areas_undiscovered:stripped_xloris_wood",
+    "areas_undiscovered:xloris_stem",
+    "areas_undiscovered:stripped_xloris_log",
+    "areas_undiscovered:xloris_leaves",
+    "areas_undiscovered:xloris_planks",
+    "areas_undiscovered:xloris_stairs",
+    "areas_undiscovered:xloris_slab",
+    "areas_undiscovered:xloris_fence",
+    "areas_undiscovered:xloris_fence_gate",
+    "areas_undiscovered:xloris_pressure_plate",
+    "areas_undiscovered:xloris_button",
+    "areas_undiscovered:xloris_door",
+    "areas_undiscovered:xloris_trapdoor",
+    "areas_undiscovered:xloris_jelly",
+    "areas_undiscovered:therian_wood",
+    "areas_undiscovered:therian_log",
+    "areas_undiscovered:therian_planks",
+    "areas_undiscovered:therian_stairs",
+    "areas_undiscovered:therian_slab",
+    "areas_undiscovered:therian_fence",
+    "areas_undiscovered:therian_fence_gate",
+    "areas_undiscovered:therian_pressure_plate",
+    "areas_undiscovered:therian_button",
+    "areas_undiscovered:stripped_therian_stem",
+    "areas_undiscovered:stripped_therian_hyphae",
+    "areas_undiscovered:therian_door",
+    "areas_undiscovered:therian_trapdoor"
+  ]
+}

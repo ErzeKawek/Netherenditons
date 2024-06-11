@@ -1,0 +1,26 @@
+{
+  "_fv": 60,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Mite Infestation",
+    "icon": "mite_infestation.png",
+    "color": {
+      "value": -12570797,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "MiteInfestationEffectStartedapplied"
+    },
+    "onActiveTick": {
+      "name": "MiteInfestationOnEffectActiveTick"
+    },
+    "onExpired": {
+      "name": "MiteInfestationEffectExpires"
+    }
+  }
+}
